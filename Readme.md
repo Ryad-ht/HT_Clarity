@@ -63,7 +63,7 @@ Une société de transport :
 
 ## 🔗 Résultat final
 
-👉 [Lien vers le dashboard sur Tableau Public](https://public.tableau.com/app/profile/...) *(à remplacer par ton vrai lien)*
+👉 [Lien vers le dashboard sur Tableau Public](https://public.tableau.com/app/profile/ryad.hadjtahar4990/viz/Classeur1_17537222116480/Tableaudebord1?publish=yes)
 
 ---
 
@@ -77,4 +77,4 @@ Cette étude a été menée pour illustrer un cas d'usage concret dans notre off
 
 ---
 
-👋 *Projet réalisé dans le cadre de notre offre de service data pour TPE/PME. Contact : [tonemail@exemple.com]*
+👋 *Projet réalisé dans le cadre de notre offre de service data pour TPE/PME. Contact : [hadjtahar.ryad@gmail.com]*
